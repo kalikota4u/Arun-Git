@@ -4,7 +4,7 @@ package com.mycompany.app;
  * Hello world!
  */
  /**
- * Password = Password  
+ * Password = Password     
  * User = admin
  */
 public class App
